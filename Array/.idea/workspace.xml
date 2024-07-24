@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db05512c-02a0-40de-b61c-9f642a47d8ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../GFG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hollowrectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practicejava/src/practicejavaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practicejava/src/practicejavaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reversenumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Calculator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../additionoftwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alphabeticorderinvertpyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amostrong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../areaofcircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../areaofrectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrongnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayquestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binarysearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binarytodecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitmanipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculatorusingswitchcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../characterpattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpostiveandnegativno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionalopretor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionalopretor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decreasingnumberusingrecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divoftwonum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divoftwonum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublinfprogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublinfprogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eligblevote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evenodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factorialbyfunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../floating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../floating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullpyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../halfinvertedd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../halfinvertpyramidnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../halfpyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inloopusingbreakkeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invertedpattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inverthalfpyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kpattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../largestnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../largestofwonum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leapyear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linearearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minusoftwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minusoftwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiplyoftwonum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiplytwonumerbyfunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pairinarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../palindrome1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../palindromestrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../palindromewhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patternapnacollege.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patternhalf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patternpractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicereverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prime1ton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primecheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primenumeber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../print1tonnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printpatterndemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productdigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../progam2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../progam2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyramid1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyramidnumberprint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../questionapnacollege.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reciporocalpyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverseanarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversenumberapnacollege.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reversepyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rohit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotatedpyramidhalf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simplecalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solidrectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringbuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../substring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumdigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumdigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumfirstnnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumfirstnnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumof1tonnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumoftwonum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumrangenum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ternaryoperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threelargest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppercase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weakprint.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rohityadav142"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rohityadav142/dsjavatraining.git",
+    "accountId": "18c59e37-3eb7-4b5a-9d1e-978c396fdac5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jhZ3ovekAw3a2ZNB90SqBDpP5H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.demoarraaaaay.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GIthub/dsjavatraining/MyAllJavaProgram"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db05512c-02a0-40de-b61c-9f642a47d8ba" name="Changes" comment="" />
+      <created>1721841072795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721841072795</updated>
+    </task>
+    <servers />
+  </component>
+</project>
